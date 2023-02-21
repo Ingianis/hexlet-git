@@ -1,1 +1,1 @@
-Hello, Hexlet
+PEOPLE file
